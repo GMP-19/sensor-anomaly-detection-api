@@ -1,0 +1,25 @@
+{
+  "project_name": "Sensor Anomaly Detection API",
+  "model_type": "IsolationForest",
+  "feature_columns": [
+    "sensor_2",
+    "sensor_3",
+    "sensor_4",
+    "sensor_6",
+    "sensor_7",
+    "sensor_8",
+    "sensor_9",
+    "sensor_11",
+    "sensor_12",
+    "sensor_13",
+    "sensor_14",
+    "sensor_15",
+    "sensor_17",
+    "sensor_20",
+    "sensor_21"
+  ],
+  "n_features": 15,
+  "n_estimators": 200,
+  "contamination": 0.05,
+  "random_state": 42
+}

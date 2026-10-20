@@ -1,0 +1,9 @@
+{
+  "training_observations": 20631,
+  "test_observations": 13096,
+  "number_of_features": 15,
+  "training_anomalies": 1032,
+  "training_anomaly_rate_percent": 5.0,
+  "test_anomalies": 138,
+  "test_anomaly_rate_percent": 1.05
+}
